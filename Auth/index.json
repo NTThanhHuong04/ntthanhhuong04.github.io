@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "username": "nolan",
+      "password": "isme",
+      "status": "notlocked",
+      "note": "Nolan dzaii"
+    },
+    {
+      "username": "conbo",
+      "password": "bietbay",
+      "status": "notlocked",
+      "note": ""
+    },
+    {
+      "username": "1",
+      "password": "1",
+      "status": "locked",
+      "note": "choi game ma hack cai do 4 chan ( ib Nolan de lay key )"
+    }
+  ]
+}
